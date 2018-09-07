@@ -1,0 +1,19 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "Isaac Raymond's personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IRGames/personal-website.git"
+  },
+  "author": "Isaac Raymond",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IRGames/personal-website/issues"
+  },
+  "homepage": "https://github.com/IRGames/personal-website#readme"
+}
